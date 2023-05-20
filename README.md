@@ -1,7 +1,7 @@
 # Prework Study Guide Webpage
 
 ## Description
-the prework study guide is the work we are supposed to do before class so we are able to get an ideo of how everything works and the flow of everything
+the prework study guide is the work we are supposed to do before class so we are able to get an idea of how everything works and the flow of everything
 -i am motivated to learn how to code to persue a career and better myself and my life
 i built this assignment to learn all of the tiny details that go into even a simple website and to have a better understanding and respect for software
 i learned the basics of coding!
